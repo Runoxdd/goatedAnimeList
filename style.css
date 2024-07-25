@@ -1,0 +1,48 @@
+h1{
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 500%;
+    font-family: "Rajdhani", sans-serif;
+
+}
+html{
+    background-color: gray;
+}
+#anime1{
+    border: 10px solid black;
+    margin-top: 10%;
+    width: 100%;
+
+}
+#anime2{
+    border: 10px solid black;
+    margin-top: 10%;
+    width: 100%;
+
+
+}
+#anime3{
+    border: 10px solid black;
+    margin-top: 10%;
+    width: 100%;
+    
+}
+#anime4{
+    border: 10px solid black;
+    margin-top: 10%;
+    width: 100%;
+    
+}
+#anime5{
+    border: 10px solid black;
+    margin-top: 10%;
+    width: 100%;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+}
+.beans{
+    font-family: "Orbitron", sans-serif;
+    font-size: 100x;
+}
